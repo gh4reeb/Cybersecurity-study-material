@@ -1,4 +1,6 @@
-**Learn Python**
+# Learn Python
+## Requirement 
+  Basic Programming background
 https://www.codecademy.com/learn/learn-python
 https://www.w3schools.com/python/
 
