@@ -3,14 +3,11 @@
   Basic Programming background
 https://www.codecademy.com/learn/learn-python
 https://www.w3schools.com/python/
-
-**Python for Penetration Testing - Scripting **
+## Python for Penetration Testing - Scriptin
 https://www.thepythoncode.com/topic/ethical-hacking
 https://github.com/SHathi28/Ethical-Hacking-Python-Scripts
 https://www.geeksforgeeks.org/ethical-hacking-with-python/
-
-
-**Cheatsheet**
+## Cheatsheet**
 https://devhints.io/python
 https://learnxinyminutes.com/docs/python/
 
