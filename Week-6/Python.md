@@ -6,7 +6,7 @@
 ## Python for Penetration Testing - Scriptin
  <br>https://www.thepythoncode.com/topic/ethical-hacking
  <br>https://github.com/SHathi28/Ethical-Hacking-Python-Scripts
-  https://www.geeksforgeeks.org/ethical-hacking-with-python/
+ <br>https://www.geeksforgeeks.org/ethical-hacking-with-python/
 ## Cheatsheet**
  <br>https://devhints.io/python
  <br>https://learnxinyminutes.com/docs/python/
